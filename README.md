@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="260px" align="right" alt="Computador">
 
-<p margin="80%"> 
+<div margin="80%"> 
 <br>
 I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="nguyenphuhongloan@gmail.com">nguyenphuhongloan@gmail.com</a><br><br>
@@ -10,10 +10,8 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <br>
 <br>
 <br>
-<br>
-<br>
 </p>
-<p>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="175em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="175em"/>
 </p>
