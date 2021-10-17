@@ -12,8 +12,8 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <br>
  </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="175em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="175em"/>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <br>
