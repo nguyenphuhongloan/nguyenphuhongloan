@@ -23,4 +23,7 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 [![MySQL](https://img.shields.io/badge/Mysql-3765AF?style=for-the-badge&logo=mysql&labelColor=black&logoColor=3765AF)](#)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
