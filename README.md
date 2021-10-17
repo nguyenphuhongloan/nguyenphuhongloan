@@ -1,14 +1,14 @@
-<img src="https://github.com/hongvinhmobile/hongvinhmobile/blob/main/gif/banner_gif.gif?raw=true" height="260px" align="right" alt="Computador">
+<img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="260px" align="right" alt="Computador">
 
 <p align="justify" margin="80%"> 
 <br>
-I'm <strong>Dao Hong Vinh</strong>, currently a mobile programmer developing the dating application <strong>Waodate</strong>.
-Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="lambiengcode@gmail.com">lambiengcode@gmail.com</a><br><br>
-<strong>My Blog</strong>: https://lambiengcode.blogspot.com <br>
+I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
+Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="nguyenphuhongloan@gmail.com">nguyenphuhongloan@gmail.com</a><br><br>
+<strong>My Facebook</strong>: https://www.facebook.com/nguyenphuhongloan <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
-
-<strong>Award</strong>
-- Idea Award Hackathon HoChiMinh City 2020 - [Repository](https://github.com/hongvinhmobile/hackathon2020)
+<br>
+<br>
+<br>
 </p>
 <br>
 <p>
@@ -17,5 +17,8 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 </p>
 
 #### Skills
-[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#) [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)[![Firebase Badge](https://img.shields.io/badge/-Firebase-e69514?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa500)](#)
-[![ReactNative Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=%23ED8B00)](#)
+[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
+[![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
+[![PHP Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=77BB4)](#)
+[![MySQL](https://img.shields.io/badge/Mysql-3765AF?style=for-the-badge&logo=mysql&labelColor=black&logoColor=3765AF)](#)
