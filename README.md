@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="260px" align="right" alt="Computador">
 
-<p align="justify" margin="80%"> 
+<p margin="80%"> 
 <br>
 I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="nguyenphuhongloan@gmail.com">nguyenphuhongloan@gmail.com</a><br><br>
