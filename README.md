@@ -28,7 +28,7 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <br>
 
-#### Coding Stats - Last 7 Days
+### Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
