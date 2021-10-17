@@ -21,3 +21,6 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
 [![PHP Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=77BB4)](#)
 [![MySQL](https://img.shields.io/badge/Mysql-3765AF?style=for-the-badge&logo=mysql&labelColor=black&logoColor=3765AF)](#)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
