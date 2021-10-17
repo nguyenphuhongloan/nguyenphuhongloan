@@ -7,6 +7,7 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <strong>My Facebook</strong>: https://www.facebook.com/nguyenphuhongloan <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 <br>
+<br>
 </p>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="175em"/>
