@@ -1,7 +1,7 @@
  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="200px" align="right" alt="Computador">
 
-<div margin="80%"> 
+<p margin="80%"> 
  
 <br>
 I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
@@ -10,10 +10,10 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 <br>
 <br>
-</p>
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="170em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="170em"/>
+ </p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="180em"/>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <br>
