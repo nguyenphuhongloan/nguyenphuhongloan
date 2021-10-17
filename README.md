@@ -1,7 +1,8 @@
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <img src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" height="200px" align="right" alt="Computador">
 
 <div margin="80%"> 
-<br>
+ 
 <br>
 I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
 Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="nguyenphuhongloan@gmail.com">nguyenphuhongloan@gmail.com</a><br><br>
@@ -14,6 +15,8 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 <img src="https://github-readme-stats.vercel.app/api?username=nguyenphuhongloan&count_private=true&show_icons=true&theme=dracula&include_all_commits=true" height="175em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphuhongloan&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=dracula&count_private=true&show_icons=true" height="175em"/>
 </p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
+<br>
 
 #### Skills
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=%23ED8B00)](#)
@@ -21,6 +24,9 @@ Also, I'm a freelancer. If you have a need for a mobile application or website, 
 [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
 [![PHP Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=77BB4)](#)
 [![MySQL](https://img.shields.io/badge/Mysql-3765AF?style=for-the-badge&logo=mysql&labelColor=black&logoColor=3765AF)](#)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
+<br>
 
 #### Coding Stats - Last 7 Days
 <!--START_SECTION:waka-->
