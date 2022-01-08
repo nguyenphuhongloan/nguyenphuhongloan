@@ -4,7 +4,7 @@
 <p margin="80%"> 
 <br>
 I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
-Also, I'm a freelancer. If you have a need for a mobile application or website, contact me by email: <a href="nguyenphuhongloan@gmail.com">nguyenphuhongloan@gmail.com</a><br><br>
+<br>
 <strong>My Facebook</strong>: https://www.facebook.com/nguyenphuhongloan <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 <br>
