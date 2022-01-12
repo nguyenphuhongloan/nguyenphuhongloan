@@ -30,9 +30,10 @@ I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-Java         9 hrs 53 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.97 % 
+Java         8 hrs 33 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.52 % 
+JavaScript   2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
