@@ -31,10 +31,9 @@ I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-JavaScript   27 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦   97.72 %
-HTML         0 secs          ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
