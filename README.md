@@ -18,7 +18,7 @@ I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 
 ## ⚡ Skills
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&labelColor=black&logo=java&logoColor=%23ED8B00)](#)
+[![NodeJS](https://img.shields.io/badge/NodeJS-9933.svg?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=#339933)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
 [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
 [![PHP Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=77BB4)](#)
