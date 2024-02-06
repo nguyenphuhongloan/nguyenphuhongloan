@@ -3,9 +3,9 @@
 
 <p margin="80%"> 
 <br>
-I'm <strong>Nguyen Phu Hong Loan</strong>, student of <strong>Sai Gon university</strong>.
+I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
-<strong>My Facebook</strong>: https://www.facebook.com/nguyenphuhongloan <br>
+<strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
 <strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
 <br>
 <br>
