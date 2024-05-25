@@ -43,3 +43,6 @@ Text         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
+<!--START_SECTION:auto_commit-->
+The speedily changing world and the growth in business and industrial enterprises have led to greater demand of semi-skilled manpower, who need a higher level of education in order to perform their tasks at the adequate level. To keep up with the speedy change, the educational system can no longer take a passive role.
+<!--END_SECTION:auto_commit-->
