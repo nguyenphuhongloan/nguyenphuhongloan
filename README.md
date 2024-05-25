@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Fun fact</strong>: You cannot complete a project without using StackOverflow <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--><!--END_SECTION:meow-fact--> <br>
 <br>
 <br>
 </p>
