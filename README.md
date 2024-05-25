@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Some common houseplants poisonous to cats include: English Ivy, iris, mistletoe, philodendron, and yew. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years. <!--END_SECTION:meow-fact--> <br>
 <br>
 <br>
 </p>
