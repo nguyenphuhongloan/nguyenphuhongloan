@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Wikipedia has a recording of a cat meowing because why not? <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Neutering a cat extends its life span by two or three years. <!--END_SECTION:meow-fact--> <br>
 <br>
 <br>
 </p>
