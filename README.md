@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> In the Middle Ages, during the Festival of Saint John, cats were burned alive in town squares. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> When well treated, a cat can live twenty or more years but the average life span of a domestic cat is 14 years. <!--END_SECTION:meow-fact--> <br>
 <br>
 <br>
 </p>
