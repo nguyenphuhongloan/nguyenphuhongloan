@@ -44,8 +44,5 @@ Text         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-What about sunrise, what about rain?
-What about all the things that you said we were to gain?
-What about flowering fields, is there a time?
-What about all the dreams that you said was yours and mine?
+I miss the comfort in being sad.
 <!--END_SECTION:auto_commit-->
