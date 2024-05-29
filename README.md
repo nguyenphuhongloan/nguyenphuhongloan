@@ -44,5 +44,5 @@ JavaScript   14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Dead people receive more flowers than the living ones because regret is stronger than gratitude.
+Racism is still with us. But it is up to us to prepare our children for what they have to meet, and, hopefully, we shall overcome.
 <!--END_SECTION:auto_commit-->
