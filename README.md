@@ -44,5 +44,5 @@ JavaScript   14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You say you love rain, but you use an umbrella to walk under it. You say you love sun, but you seek shelter when it is shining. You say you love wind, but when it comes you close your windows. So that's why I'm scared when you say you love me.
+The only person who is educated is the one who has learned how to learn and change.
 <!--END_SECTION:auto_commit-->
