@@ -44,5 +44,5 @@ JavaScript   17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The only person who is educated is the one who has learned how to learn and change.
+At present I absolutely want to paint a starry sky. It often seems to me that night is still more richly coloured than the day; having hues of the most intense violets, blues and greens. If only you pay attention to it you will see that certain stars are lemon-yellow, others pink or a green, blue and forget-me-not brilliance. And without my expatiating on this theme it is obvious that putting little white dots on the blue-black is not enough to paint a starry sky.
 <!--END_SECTION:auto_commit-->
