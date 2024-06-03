@@ -44,5 +44,5 @@ Bash         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Be happy because you're living today, not today, but tomorrow because of your determination.
+I never realized that a child is capable of remembering so well and of waiting so patiently
 <!--END_SECTION:auto_commit-->
