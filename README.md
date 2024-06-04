@@ -44,5 +44,5 @@ Text         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I never realized that a child is capable of remembering so well and of waiting so patiently
+Some of us think holding on makes us strong, but sometimes, it is letting go.
 <!--END_SECTION:auto_commit-->
