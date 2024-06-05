@@ -44,5 +44,5 @@ Bash         6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Some of us think holding on makes us strong, but sometimes, it is letting go.
+You must allow your free-will to roam as freely as you want and delve deep into your dreams. Never limit yourself nor live according to the appetite of someone else.
 <!--END_SECTION:auto_commit-->
