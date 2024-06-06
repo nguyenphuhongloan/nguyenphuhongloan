@@ -44,5 +44,5 @@ JavaScript   22 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You must allow your free-will to roam as freely as you want and delve deep into your dreams. Never limit yourself nor live according to the appetite of someone else.
+If even a single hair of my beard learns my secret, I will cut my beard from the root.
 <!--END_SECTION:auto_commit-->
