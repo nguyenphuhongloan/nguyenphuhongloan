@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> A cats field of vision is about 185 degrees. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs. <!--END_SECTION:meow-fact--> <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenphuhongloan.nguyenphuhongloan" alt="visitor badge"/>
 </p>
