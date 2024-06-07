@@ -44,5 +44,5 @@ Text         43 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If even a single hair of my beard learns my secret, I will cut my beard from the root.
+I don’t think that everyone should become a mathematician, but I do believe that many students don’t give mathematics a real chance.
 <!--END_SECTION:auto_commit-->
