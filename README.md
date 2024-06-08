@@ -44,5 +44,5 @@ Text         50 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I don’t think that everyone should become a mathematician, but I do believe that many students don’t give mathematics a real chance.
+Dreams are like stars; you may never touch them, but if you follow them, they will lead you to your destiny.
 <!--END_SECTION:auto_commit-->
