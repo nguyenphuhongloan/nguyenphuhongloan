@@ -44,5 +44,5 @@ Text         41 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-To know your Enemy, you must become your Enemy.
+You can get much farther with a kind word and a gun than you can with a kind word alone.
 <!--END_SECTION:auto_commit-->
