@@ -44,5 +44,5 @@ TSConfig     26 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You can get much farther with a kind word and a gun than you can with a kind word alone.
+Man invented clothing to cover the superficial and to discover the inside.
 <!--END_SECTION:auto_commit-->
