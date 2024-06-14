@@ -44,5 +44,5 @@ Text         6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Man invented clothing to cover the superficial and to discover the inside.
+Heroes come and go, but legends are forever.
 <!--END_SECTION:auto_commit-->
