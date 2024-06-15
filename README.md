@@ -44,5 +44,5 @@ YAML         5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Heroes come and go, but legends are forever.
+Perhaps one did not want to be loved so much as to be understood.
 <!--END_SECTION:auto_commit-->
