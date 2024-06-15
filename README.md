@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> In tigers and tabbies, the middle of the tongue is covered in backward-pointing spines, used for breaking off and gripping meat. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Mother cats teach their kittens to use the litter box. <!--END_SECTION:meow-fact--> <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenphuhongloan.nguyenphuhongloan" alt="visitor badge"/>
 </p>
