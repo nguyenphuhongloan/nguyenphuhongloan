@@ -44,5 +44,5 @@ YAML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Perhaps one did not want to be loved so much as to be understood.
+In fostering a sense of success, teachers have to be responsive to the learners and create several self-assessment activities in learning.
 <!--END_SECTION:auto_commit-->
