@@ -44,5 +44,5 @@ YAML         22 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Wanting to be someone else is a waste of who you are
+The wonderful things in life are the things you do, not the things you have.
 <!--END_SECTION:auto_commit-->
