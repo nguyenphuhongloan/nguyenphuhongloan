@@ -44,5 +44,5 @@ JSON         52 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Here we are, the most clever species ever to have lived. So how is it we can destroy the only planet we have?
+I'm not saying I'm gonna change the world, but I guarantee that I will spark the brain that will change the world.
 <!--END_SECTION:auto_commit-->
