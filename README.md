@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> A cat has been mayor of Talkeetna, Alaska, for 15 years. His name is Stubbs. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> A cat's whiskers are thought to be a kind of radar, which helps a cat gauge the space it intends to walk through. <!--END_SECTION:meow-fact--> <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenphuhongloan.nguyenphuhongloan" alt="visitor badge"/>
 </p>
