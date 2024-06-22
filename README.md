@@ -44,5 +44,5 @@ JSON         50 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I'm not saying I'm gonna change the world, but I guarantee that I will spark the brain that will change the world.
+If I got rid of my demons, I’d lose my angels.
 <!--END_SECTION:auto_commit-->
