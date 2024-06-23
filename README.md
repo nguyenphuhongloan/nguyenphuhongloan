@@ -44,5 +44,5 @@ JSON         53 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If I got rid of my demons, I’d lose my angels.
+You can close your eyes to the things you don't want to see, but you can't close your heart to the things you don't want to feel.
 <!--END_SECTION:auto_commit-->
