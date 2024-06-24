@@ -44,5 +44,6 @@ Other        15 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You can close your eyes to the things you don't want to see, but you can't close your heart to the things you don't want to feel.
+You know it's funny, when it rains it pours
+they got money for wars, but can't feed the poor.
 <!--END_SECTION:auto_commit-->
