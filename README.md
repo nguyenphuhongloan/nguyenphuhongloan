@@ -44,6 +44,5 @@ Other        15 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You know it's funny, when it rains it pours
-they got money for wars, but can't feed the poor.
+Montserrat Caballé is sensational. She has that same kind of emotion as Aretha Franklin. The way she delivers a song is so very natural. It's a very different gift.
 <!--END_SECTION:auto_commit-->
