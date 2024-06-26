@@ -44,5 +44,11 @@ Other        16 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Montserrat Caballé is sensational. She has that same kind of emotion as Aretha Franklin. The way she delivers a song is so very natural. It's a very different gift.
+If teardrops could be bottled
+There'd be swimming pools filled by models
+Told a tight dress is what makes you a whore
+If "I love you" was a promise
+Would you break it, if you're honest
+Tell the mirror what you know she's heard before
+I don't wanna be you anymore
 <!--END_SECTION:auto_commit-->
