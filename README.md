@@ -44,11 +44,5 @@ JSON         8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If teardrops could be bottled
-There'd be swimming pools filled by models
-Told a tight dress is what makes you a whore
-If "I love you" was a promise
-Would you break it, if you're honest
-Tell the mirror what you know she's heard before
-I don't wanna be you anymore
+Laugh as much as you breathe and love as long as you live.
 <!--END_SECTION:auto_commit-->
