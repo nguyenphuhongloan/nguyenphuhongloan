@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> The ancestor of all domestic cats is the African Wild Cat which still exists today. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Cats have an average of 24 whiskers, arranged in four horizontal rows on each side. <!--END_SECTION:meow-fact--> <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenphuhongloan.nguyenphuhongloan" alt="visitor badge"/>
 </p>
