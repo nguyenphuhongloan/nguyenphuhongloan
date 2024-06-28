@@ -44,5 +44,5 @@ Text         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Laugh as much as you breathe and love as long as you live.
+A dream you dream alone is only a dream. A dream you dream together is reality.
 <!--END_SECTION:auto_commit-->
