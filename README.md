@@ -44,5 +44,5 @@ TSConfig     10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-A dream you dream alone is only a dream. A dream you dream together is reality.
+Artistry is founded upon absolute technical prowess.
 <!--END_SECTION:auto_commit-->
