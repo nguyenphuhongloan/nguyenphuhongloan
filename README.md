@@ -44,5 +44,5 @@ YAML                       23 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Artistry is founded upon absolute technical prowess.
+If I'm in a bad mood, or if I'm uncomfortable, it's probably what I'm wearing that's making me feel that way.
 <!--END_SECTION:auto_commit-->
