@@ -44,5 +44,5 @@ YAML                       23 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I will make you shorter by the head.
+Educating the mind without educating the heart is no education at all.
 <!--END_SECTION:auto_commit-->
