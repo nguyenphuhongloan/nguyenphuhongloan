@@ -44,5 +44,6 @@ YAML                       19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Educating the mind without educating the heart is no education at all.
+No spring, nor summer beauty hath such grace,
+As I have seen in one autumnal face.
 <!--END_SECTION:auto_commit-->
