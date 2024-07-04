@@ -44,6 +44,5 @@ YAML                       22 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-No spring, nor summer beauty hath such grace,
-As I have seen in one autumnal face.
+Whoever is happy will make others happy too.
 <!--END_SECTION:auto_commit-->
