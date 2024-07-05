@@ -44,5 +44,5 @@ Git Config                 4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Whoever is happy will make others happy too.
+A woman's heart should be so hidden in God that a man has to seek Him just to find her.
 <!--END_SECTION:auto_commit-->
