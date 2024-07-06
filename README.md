@@ -44,5 +44,5 @@ Text                       12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-A woman's heart should be so hidden in God that a man has to seek Him just to find her.
+How to be sure that nothing will happen, when you don't always need a reason to become one of those cursed and deceptive beings, those entities thrown from the cradle of God.
 <!--END_SECTION:auto_commit-->
