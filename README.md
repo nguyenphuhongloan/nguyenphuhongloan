@@ -44,5 +44,5 @@ Docker       16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-How to be sure that nothing will happen, when you don't always need a reason to become one of those cursed and deceptive beings, those entities thrown from the cradle of God.
+And Dr. Dre said … nothing, you idiots! Dr. Dre's dead, he's locked in my basement!
 <!--END_SECTION:auto_commit-->
