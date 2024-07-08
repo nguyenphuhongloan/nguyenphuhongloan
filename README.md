@@ -44,5 +44,5 @@ Docker       16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-And Dr. Dre said … nothing, you idiots! Dr. Dre's dead, he's locked in my basement!
+I have learned over the years that when one's mind is made up, this diminishes fear; knowing what must be done does away with fear.
 <!--END_SECTION:auto_commit-->
