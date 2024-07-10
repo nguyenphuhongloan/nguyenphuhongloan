@@ -44,32 +44,5 @@ Docker       33 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-She raised an eyebrow. "You got something to say to me, Seaweed Brain?"
-
-You'd probably kick my butt."
-
-YouI'd kick your butt."
-
-I brushed the cake off my hands. "When I was at the River Styx, turning invulnerable… Nico said I had to concentrate on one thing that kept me anchored to the world, that made me want to stay mortal."
-
-Annabeth kept her eyes on the horizon. "Yeah?"
-
-Then up on Olympus," I said, "when they wanted to make me a god and stuff, I kept thinking-"
-
-Oh, you so wanted to."
-
-Well, maybe a little. But I didn't, because I thought-I didn't want things to stay the same for eternity, because things could always get better. And I was thinking…" My throat felt really dry.
-
-Anyone in particular?" Annabeth asked, her voice soft.
-
-I looked over and saw that she was trying not to smile.
-
-You're laughing at me," I complained.
-
-I am not!"
-
-You arenot making this easy."
-
-Then she laughed for real, and she put her hands
-around my neck. "I am never, going to make things easy for you, Seaweed Brain. Get used to it.
+A ring of polynomials in any number of variables over a ring of coeffcients that has an identity element and a finite basis, itself has a finite basis.
 <!--END_SECTION:auto_commit-->
