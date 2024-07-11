@@ -44,5 +44,5 @@ Text         37 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-A ring of polynomials in any number of variables over a ring of coeffcients that has an identity element and a finite basis, itself has a finite basis.
+I would rather be the hammer than the anvil
 <!--END_SECTION:auto_commit-->
