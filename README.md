@@ -44,5 +44,5 @@ Docker       16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-…the walls of his house were full of images of a happy past, which in his mind seemed like a constant outside of time.
+I don't think there is any truth. There are only points of view.
 <!--END_SECTION:auto_commit-->
