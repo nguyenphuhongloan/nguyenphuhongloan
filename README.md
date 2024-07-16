@@ -6,7 +6,7 @@
 I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 <br>
 <strong>Email</strong>: nguyenphuhongloan@gmail.com <br>
-<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Besides smelling with their nose, cats can smell with an additional organ called the Jacobson's organ, located in the upper surface of the mouth. <!--END_SECTION:meow-fact--> <br>
+<strong>Random Daily Meow Fact</strong>: <!--START_SECTION:meow-fact--> Your cat recognizes your voice but just acts too cool to care (probably because they are). <!--END_SECTION:meow-fact--> <br>
 <br>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=nguyenphuhongloan.nguyenphuhongloan" alt="visitor badge"/>
 </p>
