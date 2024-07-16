@@ -44,5 +44,5 @@ Docker       16 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-God? Christ. The Virgin. This Guadalajara is so rich in cathedrals, so rich in appearances, that I am sure that these are the true foundations of the city and its misfortune: the rain washes away the sin of this world…
+One book makes a complete religion. Let the future authors aim for quality rather than quantity.
 <!--END_SECTION:auto_commit-->
