@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-One book makes a complete religion. Let the future authors aim for quality rather than quantity.
+Many that live deserve death. Some that die deserve life. Can you give it to them? Then do not be too eager to deal out death in judgment, for even the very wise cannot see all ends.
 <!--END_SECTION:auto_commit-->
