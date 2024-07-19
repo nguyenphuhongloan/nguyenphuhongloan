@@ -44,5 +44,5 @@ Go           15 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It's like I've got a shotgun in my mouth with my finger on the trigger, and I like the taste of the gun metal.
+Happiness will seek for you only when you cease running away from the things that you call evil.
 <!--END_SECTION:auto_commit-->
