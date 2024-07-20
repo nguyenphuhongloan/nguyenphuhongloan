@@ -44,5 +44,5 @@ JSON         23 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Happiness will seek for you only when you cease running away from the things that you call evil.
+If nothing saves us from death, at least love should save us from life
 <!--END_SECTION:auto_commit-->
