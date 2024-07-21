@@ -44,5 +44,5 @@ JSON         17 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If nothing saves us from death, at least love should save us from life
+…the literary feeds on that fragility of life.
 <!--END_SECTION:auto_commit-->
