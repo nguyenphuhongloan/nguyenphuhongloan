@@ -44,5 +44,5 @@ JSON         17 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-…the literary feeds on that fragility of life.
+But then of course everything always happens for a reason
 <!--END_SECTION:auto_commit-->
