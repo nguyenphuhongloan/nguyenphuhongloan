@@ -44,5 +44,5 @@ JSON         23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If you don’t like the road you’re walking, start paving another one.
+People cry, not because they are weak. It is because they've been strong for too long.
 <!--END_SECTION:auto_commit-->
