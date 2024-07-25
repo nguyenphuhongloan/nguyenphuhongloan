@@ -44,5 +44,5 @@ Markdown     6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-People cry, not because they are weak. It is because they've been strong for too long.
+Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
 <!--END_SECTION:auto_commit-->
