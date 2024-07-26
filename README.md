@@ -44,5 +44,5 @@ Text         8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Sometimes it is the people no one can imagine anything of who do the things no one can imagine.
+There was a time when I was not sure, if I was a victim of the disaster or a skater, but I feel maybe I am neither of them. I haven't reached a definite answer, but as a skater, I feel so much support from so many people.
 <!--END_SECTION:auto_commit-->
