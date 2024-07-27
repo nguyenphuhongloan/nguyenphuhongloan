@@ -44,5 +44,5 @@ YAML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-There was a time when I was not sure, if I was a victim of the disaster or a skater, but I feel maybe I am neither of them. I haven't reached a definite answer, but as a skater, I feel so much support from so many people.
+Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education.
 <!--END_SECTION:auto_commit-->
