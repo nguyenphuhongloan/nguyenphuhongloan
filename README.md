@@ -44,5 +44,5 @@ JSON         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Economic, social, political, environmental and population development in Thailand have created a series of problems that must be addressed addressesed by education.
+Imperialism is a system of exploitation that occurs not only in the brutal form of those who come with guns to conquer territory. Imperialism often occurs in more subtle forms, a loan, food aid, blackmail. We are fighting this system that allows a handful of men on Earth to rule all of humanity.
 <!--END_SECTION:auto_commit-->
