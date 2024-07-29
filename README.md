@@ -44,5 +44,5 @@ JSON         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Imperialism is a system of exploitation that occurs not only in the brutal form of those who come with guns to conquer territory. Imperialism often occurs in more subtle forms, a loan, food aid, blackmail. We are fighting this system that allows a handful of men on Earth to rule all of humanity.
+I think that truth is the highest value, although it has to be embedded in love. What I mean by that is that truth should serve the highest good imaginable. For me, that is what is best for each individual, in the manner that is simultaneously best for the family, and the state, and nature itself. But you can only want that good if you love Being.
 <!--END_SECTION:auto_commit-->
