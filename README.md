@@ -44,5 +44,5 @@ JSON         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I think that truth is the highest value, although it has to be embedded in love. What I mean by that is that truth should serve the highest good imaginable. For me, that is what is best for each individual, in the manner that is simultaneously best for the family, and the state, and nature itself. But you can only want that good if you love Being.
+If I know what love is, it is because of you.
 <!--END_SECTION:auto_commit-->
