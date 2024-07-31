@@ -44,5 +44,5 @@ YAML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If I know what love is, it is because of you.
+Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.
 <!--END_SECTION:auto_commit-->
