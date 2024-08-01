@@ -44,5 +44,5 @@ YAML         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Every struggle in your life has shaped you into the person you are today. Be thankful for the hard times, they can only make you stronger.
+Unless you love someone, nothing else makes sense.
 <!--END_SECTION:auto_commit-->
