@@ -44,6 +44,5 @@ YAML         9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I can’t win. Love is Russian roulette for me. No one loves the real me inside. they're all in love with my fame, my stardom.
-I fall in love far too quickly and end up getting hurt all the time. I've got scars all over. But I can't help myself because basically I'm a softie I have this hard, macho shell — which I project on stage but there's a much softer side. too, which melts like butter.
+You are the universe. expressing itself as a human for a little while.
 <!--END_SECTION:auto_commit-->
