@@ -44,5 +44,5 @@ YAML         9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You are the universe. expressing itself as a human for a little while.
+My methods are really methods of working and thinking; this is why they have crept in everywhere anonymously.
 <!--END_SECTION:auto_commit-->
