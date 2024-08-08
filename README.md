@@ -44,5 +44,5 @@ YAML         9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Without teachers, no one would dream to do extraordinary things.
+If you are emotionally attached to your tribe, religion or political leaning to the point that truth and justice become secondary considerations, your education and exposure is useless. If you cannot reason beyond petty sentiments, you are a liability.
 <!--END_SECTION:auto_commit-->
