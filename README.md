@@ -44,5 +44,5 @@ JavaScript   14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If you are emotionally attached to your tribe, religion or political leaning to the point that truth and justice become secondary considerations, your education and exposure is useless. If you cannot reason beyond petty sentiments, you are a liability.
+I'm having too much fun today to worry about tomorrow.
 <!--END_SECTION:auto_commit-->
