@@ -44,5 +44,5 @@ Docker       22 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I'm having too much fun today to worry about tomorrow.
+You wouldn't worry so much about what others think of you if you realized how seldom they do.
 <!--END_SECTION:auto_commit-->
