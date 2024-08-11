@@ -44,5 +44,5 @@ JavaScript   19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You wouldn't worry so much about what others think of you if you realized how seldom they do.
+Good luck is another name for tenacity of purpose.
 <!--END_SECTION:auto_commit-->
