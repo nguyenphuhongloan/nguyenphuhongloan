@@ -44,5 +44,5 @@ JavaScript   19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-To avoid criticism, say nothing, do nothing, be nothing.
+With mirth and laughter let old wrinkles come.
 <!--END_SECTION:auto_commit-->
