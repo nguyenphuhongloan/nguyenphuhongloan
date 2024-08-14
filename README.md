@@ -44,5 +44,5 @@ JavaScript   19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-With mirth and laughter let old wrinkles come.
+I am more worried about being a good person than being the best football player in the world. When all this is over, what are you left with? 
 <!--END_SECTION:auto_commit-->
