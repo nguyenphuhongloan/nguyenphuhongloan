@@ -44,5 +44,5 @@ YAML         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-We ate well and cheaply and drank well and cheaply and slept well and warm together and loved each other.
+You need chaos in your soul to give birth to a dancing star.
 <!--END_SECTION:auto_commit-->
