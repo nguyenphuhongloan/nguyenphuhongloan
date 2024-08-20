@@ -44,5 +44,5 @@ YAML         14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Good friends, good books, and a sleepy conscience: this is the ideal life.
+Example is not the main thing in influencing others. It is the only thing.
 <!--END_SECTION:auto_commit-->
