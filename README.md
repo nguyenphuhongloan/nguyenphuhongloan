@@ -44,5 +44,5 @@ JSON         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Make the most of yourself…. for that is all there is of you.
+Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.
 <!--END_SECTION:auto_commit-->
