@@ -44,5 +44,5 @@ Smarty       12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Never doubt that a small group of thoughtful, committed, citizens can change the world. Indeed, it is the only thing that ever has.
+The voice of the intellect is a soft one, but it does not rest until it has gained a hearing.
 <!--END_SECTION:auto_commit-->
