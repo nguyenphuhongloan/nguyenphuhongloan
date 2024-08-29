@@ -44,5 +44,5 @@ Bash         34 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Love is blind. Friendship closes its eyes.
+Don't settle for a relationship that won't let you be yourself.
 <!--END_SECTION:auto_commit-->
