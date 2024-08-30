@@ -44,5 +44,5 @@ JSON         16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Don't settle for a relationship that won't let you be yourself.
+If you try to fail, and succeed, which have you done?
 <!--END_SECTION:auto_commit-->
