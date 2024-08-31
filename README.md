@@ -44,5 +44,5 @@ Bash         34 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If you try to fail, and succeed, which have you done?
+Education is the result of self-learning, being taught by one or more people. Learning is the key word here. Schools, colleges and universities only divide you into CLASSES according to your level of understanding.
 <!--END_SECTION:auto_commit-->
