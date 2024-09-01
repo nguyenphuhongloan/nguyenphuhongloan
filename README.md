@@ -44,5 +44,5 @@ Bash         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Education is the result of self-learning, being taught by one or more people. Learning is the key word here. Schools, colleges and universities only divide you into CLASSES according to your level of understanding.
+Every saint has a past, and every sinner has a future.
 <!--END_SECTION:auto_commit-->
