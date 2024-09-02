@@ -44,5 +44,5 @@ Bash         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Every saint has a past, and every sinner has a future.
+When we are tired, we are attacked by ideas we conquered long ago.
 <!--END_SECTION:auto_commit-->
