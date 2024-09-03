@@ -44,5 +44,5 @@ JavaScript   18 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When we are tired, we are attacked by ideas we conquered long ago.
+He's more myself than I am. Whatever our souls are made of, his and mine are the same.
 <!--END_SECTION:auto_commit-->
