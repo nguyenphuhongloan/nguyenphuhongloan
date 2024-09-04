@@ -44,5 +44,5 @@ JavaScript   7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-He's more myself than I am. Whatever our souls are made of, his and mine are the same.
+You are the master of your destiny. You can influence, direct and control your own environment. You can make your life what you want it to be.
 <!--END_SECTION:auto_commit-->
