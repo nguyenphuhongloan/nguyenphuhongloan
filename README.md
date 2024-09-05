@@ -44,5 +44,5 @@ Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You are the master of your destiny. You can influence, direct and control your own environment. You can make your life what you want it to be.
+The meaning of life of a humankind is the integrity of its unity, enlightenment, and long-term stability for the sake of everyone's happiness.
 <!--END_SECTION:auto_commit-->
