@@ -44,5 +44,5 @@ Bash         0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You can close your eyes if you want. Some things are less scary.
+My greatest strength is the love for my people, my greatest weakness is that I love them too much.
 <!--END_SECTION:auto_commit-->
