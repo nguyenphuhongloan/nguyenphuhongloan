@@ -44,5 +44,5 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-My greatest strength is the love for my people, my greatest weakness is that I love them too much.
+The good times of today are the sad thoughts of tomorrow.
 <!--END_SECTION:auto_commit-->
