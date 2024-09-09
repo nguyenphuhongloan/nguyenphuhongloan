@@ -44,5 +44,5 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The good times of today are the sad thoughts of tomorrow.
+Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
 <!--END_SECTION:auto_commit-->
