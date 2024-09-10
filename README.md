@@ -44,5 +44,5 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Rejoicing in our joy, not suffering over our suffering, makes someone a friend.
+When I die, I want to go peacefully in my sleep like my grandfather. Not screaming in terror, like the passengers in his car.
 <!--END_SECTION:auto_commit-->
