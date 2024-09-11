@@ -44,5 +44,5 @@ Makefile     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When I die, I want to go peacefully in my sleep like my grandfather. Not screaming in terror, like the passengers in his car.
+I've been there, done it all. I'm very clear about my priorities as an entertainer. I want the audience to feel good when they watch me. That's what I'm paid for. Why should I sell anything else?
 <!--END_SECTION:auto_commit-->
