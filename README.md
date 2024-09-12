@@ -44,5 +44,5 @@ YAML         7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I've been there, done it all. I'm very clear about my priorities as an entertainer. I want the audience to feel good when they watch me. That's what I'm paid for. Why should I sell anything else?
+If she's amazing, she won't be easy. If she's easy, she won't be amazing. If she's worth it, you wont give up. If you give up, you're not worthy…. Truth is, everybody is going to hurt you; you just gotta find the ones worth suffering for.
 <!--END_SECTION:auto_commit-->
