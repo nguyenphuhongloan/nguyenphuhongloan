@@ -44,5 +44,5 @@ Bash         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If you see me in a fight with a bear, pray for the bear.
+Autumn is a second Spring when every leaf is a flower.
 <!--END_SECTION:auto_commit-->
