@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-He who knows all the answers has not been asked all the questions.
+True friendship is like sound health; the value of it is seldom known until it is lost.
 <!--END_SECTION:auto_commit-->
