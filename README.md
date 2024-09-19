@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-True friendship is like sound health; the value of it is seldom known until it is lost.
+Without this playing with fantasy, no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
 <!--END_SECTION:auto_commit-->
