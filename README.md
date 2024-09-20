@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Without this playing with fantasy, no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.
+A question that sometimes drives me hazy: am I or are the others crazy?
 <!--END_SECTION:auto_commit-->
