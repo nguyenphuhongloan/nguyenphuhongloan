@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-A question that sometimes drives me hazy: am I or are the others crazy?
+There is always something left to love.
 <!--END_SECTION:auto_commit-->
