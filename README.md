@@ -44,5 +44,5 @@ YAML         25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-There is always something left to love.
+I would rather be hated for what I am, then loved for what I am not.
 <!--END_SECTION:auto_commit-->
