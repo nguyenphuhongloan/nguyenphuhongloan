@@ -44,5 +44,5 @@ YAML         25 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-thus with a kiss I die
+The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
 <!--END_SECTION:auto_commit-->
