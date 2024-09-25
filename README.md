@@ -44,5 +44,5 @@ JSON         56 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+I drink much less than most people think, and I think much more than most people would believe.
 <!--END_SECTION:auto_commit-->
