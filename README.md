@@ -44,5 +44,5 @@ JSON         58 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I drink much less than most people think, and I think much more than most people would believe.
+Don't do unto others what you don't want done unto you.
 <!--END_SECTION:auto_commit-->
