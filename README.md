@@ -44,5 +44,5 @@ JSON         1 hr 8 mins     ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Don't do unto others what you don't want done unto you.
+People seem not to see that their opinion of the world is also a confession of character.
 <!--END_SECTION:auto_commit-->
