@@ -44,5 +44,5 @@ Docker       1 hr 3 mins     ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-People seem not to see that their opinion of the world is also a confession of character.
+My fault, my failure, is not in the passions I have, but in my lack of control of them.
 <!--END_SECTION:auto_commit-->
