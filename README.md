@@ -44,5 +44,5 @@ Text         31 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-My fault, my failure, is not in the passions I have, but in my lack of control of them.
+I would rather be hated for what I am, then loved for what I am not.
 <!--END_SECTION:auto_commit-->
