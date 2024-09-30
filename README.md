@@ -44,5 +44,5 @@ Text         31 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I would rather be hated for what I am, then loved for what I am not.
+Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
 <!--END_SECTION:auto_commit-->
