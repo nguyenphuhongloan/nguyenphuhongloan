@@ -44,5 +44,5 @@ Text         31 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Genuine love should first be directed at oneself; if we do not love ourselves, how can we love others?
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
 <!--END_SECTION:auto_commit-->
