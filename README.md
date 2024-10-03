@@ -44,5 +44,5 @@ Text         19 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Without teachers, no one would dream to do extraordinary things.
+Boys think girls are like books, If the cover doesn't catch their eye they won't bother to read what's inside.
 <!--END_SECTION:auto_commit-->
