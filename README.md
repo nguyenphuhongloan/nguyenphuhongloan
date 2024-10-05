@@ -44,5 +44,5 @@ Docker       14 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things.
+However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
 <!--END_SECTION:auto_commit-->
