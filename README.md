@@ -44,5 +44,5 @@ JavaScript   22 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-However many holy words you read, however many you speak, what good will they do you if you do not act on upon them?
+Independence is happiness.
 <!--END_SECTION:auto_commit-->
