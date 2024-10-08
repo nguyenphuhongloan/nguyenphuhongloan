@@ -44,5 +44,5 @@ JavaScript   22 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Knowledge is a desire that comes after acquiring power. The first type of desire is love, then wealth, health, power and knowledge.
+It always makes me proud to love the world somehow- hate's so easy compared.
 <!--END_SECTION:auto_commit-->
