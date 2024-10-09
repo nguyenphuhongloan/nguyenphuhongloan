@@ -44,5 +44,5 @@ Docker       14 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It always makes me proud to love the world somehow- hate's so easy compared.
+No snowflake in an avalanche ever feels responsible.
 <!--END_SECTION:auto_commit-->
