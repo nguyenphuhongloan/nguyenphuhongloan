@@ -44,5 +44,5 @@ JavaScript   28 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-No snowflake in an avalanche ever feels responsible.
+When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
 <!--END_SECTION:auto_commit-->
