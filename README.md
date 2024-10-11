@@ -44,5 +44,5 @@ JavaScript   27 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When you begin to touch your heart or let your heart be touched, you begin to discover that it's bottomless.
+People will do anything, no matter how absurd, in order to avoid facing their own souls.
 <!--END_SECTION:auto_commit-->
