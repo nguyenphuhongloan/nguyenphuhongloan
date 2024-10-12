@@ -44,5 +44,5 @@ SQL          8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-People will do anything, no matter how absurd, in order to avoid facing their own souls.
+The fact that you can impose democracy on other nations is already an undemocratic approach.
 <!--END_SECTION:auto_commit-->
