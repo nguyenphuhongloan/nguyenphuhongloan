@@ -44,5 +44,5 @@ SQL          8 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The fact that you can impose democracy on other nations is already an undemocratic approach.
+I took a test in Existentialism. I left all the answers blank and got 100.
 <!--END_SECTION:auto_commit-->
