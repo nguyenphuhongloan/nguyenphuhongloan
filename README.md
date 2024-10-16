@@ -44,5 +44,5 @@ Makefile     16 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.
+Some of the worst mistakes in my life were haircuts
 <!--END_SECTION:auto_commit-->
