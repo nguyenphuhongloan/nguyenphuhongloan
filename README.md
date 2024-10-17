@@ -44,5 +44,5 @@ JavaScript   21 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Some of the worst mistakes in my life were haircuts
+You do not become good by trying to be good, but by finding the goodness that is already within you.
 <!--END_SECTION:auto_commit-->
