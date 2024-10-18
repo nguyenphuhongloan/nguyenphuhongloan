@@ -44,5 +44,5 @@ Makefile     23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You do not become good by trying to be good, but by finding the goodness that is already within you.
+A writer is somebody for whom writing is more difficult than it is for other people.
 <!--END_SECTION:auto_commit-->
