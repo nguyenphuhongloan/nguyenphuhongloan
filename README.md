@@ -44,5 +44,5 @@ Makefile     23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-A writer is somebody for whom writing is more difficult than it is for other people.
+You just stay patient, that's all.
 <!--END_SECTION:auto_commit-->
