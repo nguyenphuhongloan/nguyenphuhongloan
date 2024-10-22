@@ -44,5 +44,5 @@ Makefile     23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The greatest leader is not necessarily the one who does the greatest things. He is the one that gets the people to do the greatest things.
+Learn from yesterday, live for today, hope for tomorrow.
 <!--END_SECTION:auto_commit-->
