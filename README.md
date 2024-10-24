@@ -44,5 +44,5 @@ SQL          16 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When you are a mother, you are never really alone in your thoughts. You are connected to your child and to all those who touch your lives. A mother always has to think twice, once for herself and once for her child.
+The world breaks every one and afterward many are strong at the broken places.
 <!--END_SECTION:auto_commit-->
