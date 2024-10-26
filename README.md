@@ -44,5 +44,5 @@ YAML         10 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When it comes down to it, I let them think what they want. If they care enough to bother with what I do, then I'm already better than them.
+Thought is the blossom; language the bud; action the fruit behind it.
 <!--END_SECTION:auto_commit-->
