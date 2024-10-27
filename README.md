@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Thought is the blossom; language the bud; action the fruit behind it.
+Do nothing, say nothing, and be nothing, and you'll never be criticized.
 <!--END_SECTION:auto_commit-->
