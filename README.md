@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Do nothing, say nothing, and be nothing, and you'll never be criticized.
+You can stand tall without standing on someone. You can be a victor without having victims.
 <!--END_SECTION:auto_commit-->
