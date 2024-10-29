@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You can stand tall without standing on someone. You can be a victor without having victims.
+Courage is going from failure to failure without losing enthusiasm.
 <!--END_SECTION:auto_commit-->
