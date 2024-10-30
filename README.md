@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Courage is going from failure to failure without losing enthusiasm.
+Trust only movement. Life happens at the level of events, not of words. Trust movement.
 <!--END_SECTION:auto_commit-->
