@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Trust only movement. Life happens at the level of events, not of words. Trust movement.
+In real life, I'm a really smiley person. I smile when I talk and I laugh.
 <!--END_SECTION:auto_commit-->
