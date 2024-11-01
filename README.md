@@ -44,5 +44,5 @@ TSConfig     12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-In real life, I'm a really smiley person. I smile when I talk and I laugh.
+Poetry is what happens when nothing else can.
 <!--END_SECTION:auto_commit-->
