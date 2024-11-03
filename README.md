@@ -44,5 +44,5 @@ Makefile     6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I'd rather be called a boy and play with paper air-planes than be called a man and play with a girl's heart.
+If a person has no hope, he is truly blessed because that person has no fear of failure.
 <!--END_SECTION:auto_commit-->
