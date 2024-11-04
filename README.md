@@ -44,5 +44,5 @@ Makefile     6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If a person has no hope, he is truly blessed because that person has no fear of failure.
+Fool me one time, shame on you. Fool me twice, can't put the blame on you. Fool me three times, fuck the peace sign. Load the chopper, let it rain on you.
 <!--END_SECTION:auto_commit-->
