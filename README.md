@@ -44,5 +44,5 @@ Makefile     6 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Fool me one time, shame on you. Fool me twice, can't put the blame on you. Fool me three times, fuck the peace sign. Load the chopper, let it rain on you.
+Divide each difficulty into as many parts as is feasible and necessary to resolve it.
 <!--END_SECTION:auto_commit-->
