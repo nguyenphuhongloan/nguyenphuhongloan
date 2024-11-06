@@ -44,5 +44,5 @@ Text         10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Divide each difficulty into as many parts as is feasible and necessary to resolve it.
+Music is enough for a lifetime, but a lifetime is not enough for music.
 <!--END_SECTION:auto_commit-->
