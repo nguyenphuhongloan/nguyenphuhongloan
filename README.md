@@ -44,5 +44,5 @@ JavaScript   36 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Music is enough for a lifetime, but a lifetime is not enough for music.
+The only thing worse than bad health is a bad name.
 <!--END_SECTION:auto_commit-->
