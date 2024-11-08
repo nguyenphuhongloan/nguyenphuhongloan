@@ -44,5 +44,5 @@ Text         33 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The only thing worse than bad health is a bad name.
+With pride, there are many curses. With humility, there come many blessings.
 <!--END_SECTION:auto_commit-->
