@@ -44,5 +44,5 @@ Text         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-With pride, there are many curses. With humility, there come many blessings.
+Nature is a haunted house--but Art--is a house that tries to be haunted.
 <!--END_SECTION:auto_commit-->
