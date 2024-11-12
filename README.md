@@ -44,5 +44,5 @@ Text         29 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Don't live to fight, fight to live.
+There is a wisdom of the Head, and … there is a wisdom of the Heart.
 <!--END_SECTION:auto_commit-->
