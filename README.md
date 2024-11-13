@@ -44,5 +44,5 @@ Text         24 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-There is a wisdom of the Head, and … there is a wisdom of the Heart.
+The best preparation for tomorrow is doing your best today.
 <!--END_SECTION:auto_commit-->
