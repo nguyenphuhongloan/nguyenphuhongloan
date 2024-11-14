@@ -44,5 +44,5 @@ YAML         15 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The best preparation for tomorrow is doing your best today.
+It has become appallingly obvious that our technology has exceeded our humanity.
 <!--END_SECTION:auto_commit-->
