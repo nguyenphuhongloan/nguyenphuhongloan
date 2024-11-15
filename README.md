@@ -44,5 +44,5 @@ Text         5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It has become appallingly obvious that our technology has exceeded our humanity.
+Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
 <!--END_SECTION:auto_commit-->
