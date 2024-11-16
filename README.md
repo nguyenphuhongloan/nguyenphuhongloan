@@ -44,5 +44,5 @@ Text         4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Courage is what it takes to stand up and speak; courage is also what it takes to sit down and listen.
+Imagination is everything. It is the preview of life's coming attractions.
 <!--END_SECTION:auto_commit-->
