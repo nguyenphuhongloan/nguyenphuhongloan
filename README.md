@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Imagination is everything. It is the preview of life's coming attractions.
+Love begets courage, moderation creates abundance and humility generates power.
 <!--END_SECTION:auto_commit-->
