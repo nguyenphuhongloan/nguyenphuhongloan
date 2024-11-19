@@ -44,5 +44,5 @@ SQL          5 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Write with the door closed, rewrite with the door open.
+And now that you don't have to be perfect, you can be good.
 <!--END_SECTION:auto_commit-->
