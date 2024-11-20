@@ -44,5 +44,5 @@ Text         4 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-And now that you don't have to be perfect, you can be good.
+Do not be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better.
 <!--END_SECTION:auto_commit-->
