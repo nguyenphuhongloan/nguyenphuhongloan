@@ -44,5 +44,5 @@ JavaScript   14 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Do not be too timid and squeamish about your actions. All life is an experiment. The more experiments you make the better.
+Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
 <!--END_SECTION:auto_commit-->
