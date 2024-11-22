@@ -44,5 +44,5 @@ Bash         17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth.
+You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.
 <!--END_SECTION:auto_commit-->
