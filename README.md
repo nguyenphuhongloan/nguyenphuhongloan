@@ -44,5 +44,5 @@ Bash         23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You may say I'm a dreamer, but I'm not the only one. I hope someday you'll join us. And the world will live as one.
+I'd trade all my tomorrows for one single yesterday.
 <!--END_SECTION:auto_commit-->
