@@ -44,5 +44,5 @@ Bash         23 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I love walking in the rain because no one can see me crying
+The person born with a talent they are meant to use will find their greatest happiness in using it.
 <!--END_SECTION:auto_commit-->
