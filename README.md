@@ -44,5 +44,5 @@ SQL          30 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The person born with a talent they are meant to use will find their greatest happiness in using it.
+The pendulum of the mind oscillates between sense and nonsense, not between right and wrong.
 <!--END_SECTION:auto_commit-->
