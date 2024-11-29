@@ -44,5 +44,5 @@ JavaScript   9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The pendulum of the mind oscillates between sense and nonsense, not between right and wrong.
+When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points.
 <!--END_SECTION:auto_commit-->
