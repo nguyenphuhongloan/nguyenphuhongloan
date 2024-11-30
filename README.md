@@ -44,5 +44,5 @@ Other        7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When you see a good person, think of becoming like her/him. When you see someone not so good, reflect on your own weak points.
+The key to growth is the introduction of higher dimensions of consciousness into our awareness.
 <!--END_SECTION:auto_commit-->
