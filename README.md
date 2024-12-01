@@ -44,5 +44,5 @@ Other        7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The key to growth is the introduction of higher dimensions of consciousness into our awareness.
+If the path before you is clear, you’re probably on someone else’s.
 <!--END_SECTION:auto_commit-->
