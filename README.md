@@ -44,5 +44,5 @@ Other        7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If the path before you is clear, you’re probably on someone else’s.
+When you attack us, you will see our faces. Not our backs, but our faces.
 <!--END_SECTION:auto_commit-->
