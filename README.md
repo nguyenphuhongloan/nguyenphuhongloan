@@ -44,5 +44,5 @@ Other        7 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When you attack us, you will see our faces. Not our backs, but our faces.
+Anyone who has lost something they thought was theirs forever finally comes to realise that nothing really belongs to them.
 <!--END_SECTION:auto_commit-->
