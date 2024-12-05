@@ -44,5 +44,5 @@ Bash         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The privilege of a lifetime is being who you are.
+Only the mob and the elite can be attracted by the momentum of totalitarianism itself. The masses have to be won by propaganda.
 <!--END_SECTION:auto_commit-->
