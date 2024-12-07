@@ -44,5 +44,5 @@ Bash         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Knowledge isn’t power until it is applied.
+There can be no deep disappointment where there is not deep love.
 <!--END_SECTION:auto_commit-->
