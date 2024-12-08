@@ -44,5 +44,5 @@ Bash         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-There can be no deep disappointment where there is not deep love.
+Nearly all men can stand adversity, but if you want to test a man's character, give him power.
 <!--END_SECTION:auto_commit-->
