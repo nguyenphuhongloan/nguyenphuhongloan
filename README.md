@@ -44,5 +44,5 @@ Bash         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Nearly all men can stand adversity, but if you want to test a man's character, give him power.
+If you could not accept the past and its burden, there was no future, for without one there cannot be the other, and […] if you could accept the past you might hope for the future, for only out of the past can you make the future.
 <!--END_SECTION:auto_commit-->
