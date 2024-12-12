@@ -44,5 +44,5 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-If animals could speak, the dog would be a blundering outspoken fellow; but the cat would have the rare grace of never saying a word too much.
+If someone isn't what others want them to be, the others become angry. Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.
 <!--END_SECTION:auto_commit-->
