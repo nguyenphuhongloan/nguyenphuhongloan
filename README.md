@@ -44,5 +44,5 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-When peace comes, we will perhaps in time be able to forgive the Arabs for killing our sons, but it will be harder for us to forgive them for having forced us to kill their sons.
+You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.
 <!--END_SECTION:auto_commit-->
