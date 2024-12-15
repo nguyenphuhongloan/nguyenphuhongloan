@@ -44,5 +44,5 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-You don't love someone for their looks, or their clothes, or for their fancy car, but because they sing a song only you can hear.
+The higher we are placed, the more humbly we should walk.
 <!--END_SECTION:auto_commit-->
