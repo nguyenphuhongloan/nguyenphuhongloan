@@ -44,5 +44,5 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-I'm no prophet. My job is making windows where there were once walls.
+It's better to be hated for what you are, than to be loved for what you're not…
 <!--END_SECTION:auto_commit-->
