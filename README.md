@@ -44,5 +44,5 @@ YAML         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It's better to be hated for what you are, than to be loved for what you're not…
+Here's all you have to know about men and women: women are crazy, men are stupid. And the main reason women are crazy is that men are stupid.
 <!--END_SECTION:auto_commit-->
