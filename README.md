@@ -44,5 +44,5 @@ TypeScript   1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Here's all you have to know about men and women: women are crazy, men are stupid. And the main reason women are crazy is that men are stupid.
+There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
 <!--END_SECTION:auto_commit-->
