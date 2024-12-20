@@ -44,5 +44,5 @@ Text         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-There is no passion to be found playing small - in settling for a life that is less than the one you are capable of living.
+Here we are, the most clever species ever to have lived. So how is it we can destroy the only planet we have?
 <!--END_SECTION:auto_commit-->
