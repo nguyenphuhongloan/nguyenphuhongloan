@@ -44,5 +44,5 @@ Text         1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Here we are, the most clever species ever to have lived. So how is it we can destroy the only planet we have?
+It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
 <!--END_SECTION:auto_commit-->
