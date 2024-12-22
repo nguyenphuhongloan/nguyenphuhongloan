@@ -44,5 +44,5 @@ JavaScript   5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It is a common experience that a problem difficult at night is resolved in the morning after the committee of sleep has worked on it.
+Mercy is the golden chain by which society is bound together.
 <!--END_SECTION:auto_commit-->
