@@ -44,5 +44,5 @@ JavaScript   5 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Mercy is the golden chain by which society is bound together.
+The soul should always stand ajar, ready to welcome the ecstatic experience.
 <!--END_SECTION:auto_commit-->
