@@ -44,5 +44,6 @@ Makefile       2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It's all make believe, isn't it?
+Nevertheless I long—I pine, all my days—
+to travel home and see the dawn of my return.
 <!--END_SECTION:auto_commit-->
