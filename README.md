@@ -44,6 +44,8 @@ Makefile       2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Nevertheless I long—I pine, all my days—
-to travel home and see the dawn of my return.
+What about sunrise, what about rain?
+What about all the things that you said we were to gain?
+What about flowering fields, is there a time?
+What about all the dreams that you said was yours and mine?
 <!--END_SECTION:auto_commit-->
