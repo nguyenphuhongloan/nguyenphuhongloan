@@ -44,8 +44,5 @@ Makefile       2 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-What about sunrise, what about rain?
-What about all the things that you said we were to gain?
-What about flowering fields, is there a time?
-What about all the dreams that you said was yours and mine?
+My body is my journal, and my tattoos are my story.
 <!--END_SECTION:auto_commit-->
