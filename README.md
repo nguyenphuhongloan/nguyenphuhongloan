@@ -44,5 +44,5 @@ YAML         3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-It is what you read when you don't have to that determines what you will be when you can't help it.
+Duty makes us do things well, but love makes us do them beautifully.
 <!--END_SECTION:auto_commit-->
