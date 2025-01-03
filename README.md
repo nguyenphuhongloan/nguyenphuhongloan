@@ -44,5 +44,5 @@ YAML         3 mins          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Duty makes us do things well, but love makes us do them beautifully.
+The heart has its reasons which reason knows not of.
 <!--END_SECTION:auto_commit-->
