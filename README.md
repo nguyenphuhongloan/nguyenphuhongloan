@@ -44,5 +44,5 @@ Makefile     1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-The heart has its reasons which reason knows not of.
+Do not go where the path may lead, go instead where there is no path and leave a trail.
 <!--END_SECTION:auto_commit-->
