@@ -44,5 +44,5 @@ Makefile     1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Do not go where the path may lead, go instead where there is no path and leave a trail.
+Don't settle for a relationship that won't let you be yourself.
 <!--END_SECTION:auto_commit-->
