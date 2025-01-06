@@ -44,5 +44,5 @@ Makefile     1 min           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 <!--START_SECTION:auto_commit-->
-Don't settle for a relationship that won't let you be yourself.
+I'm going to smile, and my smile will sink down into your pupils, and heaven knows what it will become.
 <!--END_SECTION:auto_commit-->
