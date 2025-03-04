@@ -19,10 +19,13 @@ I'm <strong>Nguyen Phu Hong Loan</strong>, <strong>Backend Developer</strong>.
 
 ## ⚡ Skills
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?style=for-the-badge&labelColor=black&logo=nodedotjs&logoColor=#339933)](#)
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&labelColor=black)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)
 [![Android Badge](https://img.shields.io/badge/-Android-3C8749?style=for-the-badge&labelColor=black&logo=android&logoColor=3C8749)](#)
 [![PHP Badge](https://img.shields.io/badge/-Php-777BB4?style=for-the-badge&labelColor=black&logo=php&logoColor=77BB4)](#)
 [![MySQL](https://img.shields.io/badge/Mysql-3765AF?style=for-the-badge&logo=mysql&labelColor=black&logoColor=3765AF)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&lableColor=black&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&labelColor=black&logoColor=white)](#)
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
 
@@ -43,6 +46,3 @@ Other        0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <!--END_SECTION:waka-->
 
 <img src="https://github.com/nguyenphuhongloan/nguyenphuhongloan/blob/main/asset/rainbow.png" alt="-----------------------------------------------------" style="max-width: 100%;">
-<!--START_SECTION:auto_commit-->
-I'm going to smile, and my smile will sink down into your pupils, and heaven knows what it will become.
-<!--END_SECTION:auto_commit-->
